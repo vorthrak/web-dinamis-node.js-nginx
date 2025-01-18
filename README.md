@@ -1,5 +1,5 @@
 # web-dinamis-node.js-nginx
-## instalation in server
+## configuration in server
 - ```sudo apt update```
 - ```sudo apt install nginx -y```
 - ```curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -```
