@@ -17,4 +17,3 @@
 - ```sudo nano /var/www/myapp/public/index.html```
 - ```sudo node app.js```
 ---
-buka sg port 3000
